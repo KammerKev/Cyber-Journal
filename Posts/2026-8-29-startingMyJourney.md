@@ -1,4 +1,4 @@
-# From Command Post to Command Line: My Pivot into DFIR
+# Twenty Years In, Starting Over on Purpose: My Pivot into DFIR
 
 Over the last 15 years, I have led incident response teams across Counter Terrorism, as well as offensive and defensive cyber operations, working across a range of intelligence disciplines along the way. I bring extensive analytical experience and years of grounding in physical forensics. What I lack, at least at the level I want, is current hands on experience with the tools and processes used in cyber DFIR work.
 
